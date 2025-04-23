@@ -1,1 +1,1 @@
-[View here (PDF)](Statistical Modelling.pdf)
+[View here (PDF)](./Statistical Modelling.pdf)
