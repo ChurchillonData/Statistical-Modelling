@@ -1,1 +1,1 @@
-[View Statistical Modelling (PDF)](./Statistical Modelling.pdf)
+[View Statistical Modelling (Statistical Modelling)](./Statistical Modelling.pdf)
